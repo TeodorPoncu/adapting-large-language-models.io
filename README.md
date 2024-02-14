@@ -1,3 +1,3 @@
 # adapting-large-language-models.io
 
-[Download PDF](/assets/presentation.pdf)
+[Download PDF](DRAFT AI Ro days.pdf)
